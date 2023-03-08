@@ -1,0 +1,12 @@
+% pdf
+*.pdf
+
+% latex
+*.aux
+*.log
+*.out
+*.blg
+*.bbl
+
+% temporary
+*~

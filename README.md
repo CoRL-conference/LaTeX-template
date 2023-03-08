@@ -1,2 +1,1 @@
-# LaTeX-template
-LaTeX template
+# Conference on Robot Learning (CoRL) LaTeX template
